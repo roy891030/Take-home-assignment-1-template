@@ -1,0 +1,154 @@
+body{
+    font-family: "Noto Sans TC";
+}
+.card_container {
+    padding: 10px 0px; /* for padding sections */
+}
+
+
+header{
+    background-color: #0b3c5d;
+    padding-top: 5px;
+    
+}
+
+.aacsb{
+    border:2px solid white;
+    position:relative;
+    bottom:10px;
+    left:-20px;
+    width: 10%;
+}
+
+.new{
+    margin-top: 5px;
+    margin-left: 10px;
+    padding:3px;
+    border-left: 8px solid #f3c677;
+    font-weight:bold;
+    letter-spacing:1px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+#photo{
+    position: relative;
+    top:6px;
+    display: flex;
+    
+}
+.img1{
+
+
+    border-left:  1px solid #42424238;
+    height:212px;
+    padding-right: 5px;
+}
+.img2{
+
+
+    height:212px;
+    padding-right: 5px;
+}
+.img3{
+    border: 1px solid #42424238;
+    height:212px;
+}
+
+
+#ibmba p{
+    border: 1px solid #c7c7c7;
+    position:relative;
+    margin-right: 5px;
+    margin-top: 5px;
+    top:-9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    font-size: 14px;
+}
+
+#amazon p{
+    margin-left: 0px;
+    margin-right: 5px;
+    border: 1px solid #42424238;
+    position:relative;
+    margin-top: 5px;
+    top:-9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    top:-9px;
+    padding-left: 8px;
+    font-size: 14px;
+    
+}
+
+#act p{
+    border: 1px solid #42424238;
+    position:relative;
+    top:-9px;
+    margin-top: 5px;
+    top:-9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    font-size: 14px;
+}
+
+#next_to_second{
+    position: relative;
+    top:-20px;
+    background-color: #0b3c5d;
+
+}
+
+#second_section{
+    position: relative;
+    top:-40px;
+    display:inline-flex;;
+    background-color: #0b3c5d;
+    flex-wrap: wrap;
+
+}
+
+#mis_class{
+    color: white;
+    margin-left: 10px;
+    border-left: 8px solid #f3c677 ;
+    font-weight:bold;
+    letter-spacing:1px;
+    font-size: 20px;
+    border-top:15px solid #0b3c5d;
+}
+
+#second_section>div{
+    padding-top: 41px;
+    width: 220px;
+    color:#0b3c5d;
+    border:15px solid #0b3c5d;
+    height: 82px;
+    text-align:center;
+    text-align: center;
+    background-color: white;
+    
+}
+
+#next_to_second #mis_class{
+
+    border-bottom:2px solid white;
+
+}
+
+.new{
+    margin-top: 5px;
+    margin-left: 10px;
+    padding:3px;
+    border-left: 8px solid #f3c677;
+    font-weight:bold;
+    letter-spacing:1px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+#belive{
+    padding:20px;
+}
